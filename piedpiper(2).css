@@ -45,7 +45,7 @@ html, body{
   height: 403px;
   width: 100%;
   padding-top: 84px;
-  background-image: url(top_image.png);
+  background-image: url(https://i.ibb.co/NpQvdpF/top-image.png);
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -79,7 +79,7 @@ html, body{
 .second-image {
   width: 100%;
   height: 483px;
-  background-image: url(second_image.png);
+  background-image: url(https://i.ibb.co/F8GZzx0/second-image.png);
   background-size: cover;
   background-position: center center;
   display: flex;
